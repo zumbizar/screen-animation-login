@@ -1,0 +1,12 @@
+{
+  "name": "screen-login",
+  "displayName": "screen-login",
+  "expo": {
+    "name": "screen-login",
+    "slug": "screen-login",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
